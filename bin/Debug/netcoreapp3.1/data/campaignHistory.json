@@ -1,0 +1,15 @@
+[
+    {
+        "usedEmail": "test1@gmail.com",
+        "timestamp": "10/20/2020 7:00:07 PM",
+        "sentAddresses": [
+            "test1@gmail.com",
+            "test23@gmail.com"
+        ]
+    },
+    {
+        "usedEmail": "test1@gmail.com",
+        "timestamp": "10/20/2020 6:59:57 PM",
+        "sentAddresses": []
+    }
+]

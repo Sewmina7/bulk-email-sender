@@ -1,0 +1,4 @@
+{
+    "emailsCountThreshold": 450,
+    "emailsThresholdCooldownHours": 24
+}
